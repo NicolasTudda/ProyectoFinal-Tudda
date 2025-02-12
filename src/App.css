@@ -41,3 +41,11 @@
   color: #888;
 }
 
+.nombre-sitio {
+  margin-top: 5rem;
+  text-align: center;
+}
+
+.contenido-principal {
+  padding-top: 5rem;
+}

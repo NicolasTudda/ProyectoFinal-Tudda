@@ -14,14 +14,13 @@ export const Footer = () => {
               <h3>Sobre Nosotros</h3>
               <nav className="footer-menu">
                 <a href="#">Nuestra Historia</a>
-                <a href="#">Terminos del Servicio</a>
               </nav>
             </div>
             <div>
               <h3>Soporte</h3>
               <nav className="footer-menu">
                 <a href="#">Preguntas Frecuentes</a>
-                <a href="#">Confianza y Seguridad</a>
+                <a href="#">Instagram</a>
               </nav>
             </div>
           </div>
